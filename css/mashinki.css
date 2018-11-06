@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.myclass {
+    width: 31%;
+    height: 108px;
+    background-color: #b8b8ff;
+    float: left;
+}
+
+.other {
+    width: 204px;
+    height: 80px;
+    background-color: red;
+    float: left;
+}
+
+.st_for_txt {
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Roboto Condensed', sans-serif;
+
+}
+.esc {
+display:block;
+background-color:#696969;
+widht:100%;
+height:125px;
+}
+

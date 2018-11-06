@@ -1,0 +1,52 @@
+﻿*{
+    margin: 0;
+    padding: 0;
+}
+
+.myclass {
+    width: 31%;
+    height: 108px;
+    background-color: #b8b8ff;
+    float: left;
+}
+
+.other {
+    width: 204px;
+    height: 80px;
+    background-color: red;
+    float: left;
+}
+
+.st_for_txt {
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Roboto Condensed', sans-serif;
+
+}
+.esc {
+display:block;
+background-color: #696969;
+color: #BC8F8F;
+width: 100%;
+height: 125px;
+text-align: center;
+font-size: 75px;
+}
+.ee img {
+widht: 400px;
+height: 600px;
+
+}
+.ee {
+color:#BC8F8F;
+width:400px;
+hieght:200px;
+font-size:13px;
+}
+.pp img {
+widht:7000px;
+height:400px;
+margin-top:-464px;
+margin-left:459px;
+{
+
